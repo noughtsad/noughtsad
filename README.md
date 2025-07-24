@@ -6,6 +6,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Vision+enthusiast+%F0%9F%91%80;Curious+coder+and+AI+explorer+%F0%9F%A7%97;Let's+build+something+awesome+together%F0%9F%9A%80" alt="Typing SVG" /></div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noughtsad&label=Profile%20views&color=522e69&style=for-the-badge" alt="noughtsad" /> </p>
+
 
 <h2>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjA5MGN1cWQxZWYxdWhiZ2drZmFlYzl4aTNkcThqNXRwMXZrdXhmYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="40" />
